@@ -1,0 +1,20 @@
+feature icons 
+first icon : fas fa-magic fa-3x
+second icon : far fa-gem fa-3x
+third icon : fas fa-globe-asia fa-3x
+
+
+
+service icons
+
+first icon :fas fa-palette fa-2x
+second icon : fab fa-sketch fa-2x
+third icon : fas fa-vector-square fa-2x
+fourth icon : fas fa-pencil-ruler fa-2x
+
+
+
+contact icons 
+youtube : fab fa-youtube
+facebook : fab fa-facebook-f
+twitter : fab fa-twitter
